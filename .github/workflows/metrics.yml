@@ -19,7 +19,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: book000
+          user: jaotan
           template: classic
           base: header, activity, community
           config_timezone: Asia/Tokyo
