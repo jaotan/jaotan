@@ -156,6 +156,24 @@
                                     </svg>
                                     <div class="content">
                                         Opened
+                                        <span class="issue">#160 絵文字エイリアスが正しく置き換えられない</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">jaoafa/VCSpeaker.kt</span></div>
+                                </div>
+                                <div class="timestamp">23 Jun 2024, 19:51:42</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
                                         <span class="issue">#214 za96 による #vc での不具合報告</span>
                                     </div>
                                 </div>
@@ -222,24 +240,6 @@
                                     <div>opened  in <span class="repo">jaoafa/jao-Minecraft-Server</span></div>
                                 </div>
                                 <div class="timestamp">17 Jun 2024, 22:26:15</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#150 特殊文字が含まれたツイート本文の読み上げ失敗</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">jaoafa/VCSpeaker.kt</span></div>
-                                </div>
-                                <div class="timestamp">15 Jun 2024, 23:44:31</div>
                             </section>
                         </div>
                     </section>
