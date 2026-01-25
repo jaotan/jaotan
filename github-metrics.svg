@@ -156,7 +156,7 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#415 ChatWatcherが起動しない</span>
+                                        <span class="issue">#415 VCSpeakerのjoinコマンド実行時にエラーを吐く</span>
                                     </div>
                                 </div>
                                 <div class="details">
